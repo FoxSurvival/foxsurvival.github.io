@@ -1,2 +1,2 @@
-# foxsurvival.github.io
+# FoxSurvival
 Official FoxSurvival Webiste
